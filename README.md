@@ -20,4 +20,5 @@
 * [SQL](https://github.com/artichokeee/test-assignments/tree/main/Список%20тестовых%20заданий/SQL)
 * [Test Design](https://github.com/artichokeee/test-assignments/tree/main/Список%20тестовых%20заданий/Test%20Design)
 * [Web](https://github.com/artichokeee/test-assignments/tree/main/Список%20тестовых%20заданий/Web)
+* [Примеры задач на собеседованиях и тестовых заданий (статья)](https://vladislaveremeev.gitbook.io/qa_bible/prakticheskaya-chast/primery-zadach-na-sobesedovaniyakh-i-testovykh-zadanii)
  

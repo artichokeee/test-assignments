@@ -1,6 +1,10 @@
 # Список тестовых заданий для тестировщиков
 
-Данный репозиторий создан тестировщиком для тестировщиков. [Подробнее о проекте](https://rusau.net).
+Реальные тестовые задания от компаний для ручных тестировщиков и автоматизаторов: API и Postman, веб, мобильные приложения, SQL, тест-дизайн, тестовая документация, автоматизация. Репозиторий собрал тестировщик для тестировщиков – [Артем Русов](https://artichokeee.github.io/).
+
+**Каждое задание текстом, с разбором, как к нему подготовиться:** [artichokeee.github.io/zadaniya](https://artichokeee.github.io/zadaniya/)
+
+Подготовиться к тестовому помогут бесплатные разборы и курсы на платформе для обучения тестировщиков [Rusau Learn](https://learn.rusau.net/?utm_source=github&utm_medium=readme&utm_campaign=gh-test-assignments): [тестовая документация](https://learn.rusau.net/chek-list-i-test-kejs?utm_source=github&utm_medium=readme&utm_campaign=gh-test-assignments), [тестирование API](https://learn.rusau.net/testirovanie-api?utm_source=github&utm_medium=readme&utm_campaign=gh-test-assignments), [SQL для тестировщика](https://learn.rusau.net/sql-dlya-testirovshchika?utm_source=github&utm_medium=readme&utm_campaign=gh-test-assignments), [бесплатный базовый курс](https://learn.rusau.net/catalog/testirovanie-po-bazovyy?utm_source=github&utm_medium=readme&utm_campaign=gh-test-assignments).
 
 ---
 
